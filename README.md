@@ -10,7 +10,7 @@ You are dealing wil many text data every day so having a good understanding of '
 ## What are the things you will learn.
 
 ### 1 - Unicode Introduction - Part -1 
-Explaning everything by showing a solution to a common problem -> 'HOW TO PRINT UNICODE IN COMMAND PROMPT'.
+Explaining everything by showing a solution to a common problem -> 'HOW TO PRINT UNICODE IN COMMAND PROMPT'.
  
 After watching the following video you will get better understandin of following things.
  #### - How the text data is represented in olden days?
